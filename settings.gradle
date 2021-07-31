@@ -1,0 +1,2 @@
+rootProject.name = "Tas_kagıt_makas"
+include ':app'
